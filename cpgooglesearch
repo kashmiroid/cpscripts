@@ -1,5 +1,5 @@
 // Step - 1
-open("https://www.redhat.com/")
+open("https://www.google.com/")
 waitForNoRequest("2500")
 setStepName("01 Google Homepage")
 click("//*[@name=\"q\" or @class=\"gLFyf gsfi\"]")
